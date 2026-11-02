@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\chatrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\chatrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\chatpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\chatpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\tap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\tap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\knownhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\knownhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\chatrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\chatrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|c:\\users\\bpham5\\documents\\tap_bao\\tap project\\tap project\\chatpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CC52AB5-BB96-37F4-1E5A-FDF13EB8715F}|TAP PROJECT\\TAP PROJECT.csproj|solutionrelative:tap project\\chatpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TAP.cs",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\TAP.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\TAP.cs",
               "ToolTip": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\TAP.cs",
               "RelativeToolTip": "TAP PROJECT\\TAP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA1wAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T15:16:26.634Z",
               "IsPinned": true,
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TAP.Designer.cs",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\TAP.Designer.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\TAP.Designer.cs",
@@ -65,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "KnownHost.cs",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\KnownHost.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\KnownHost.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ChatRow.cs",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\ChatRow.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\ChatRow.cs",
@@ -85,11 +85,12 @@
               "RelativeToolTip": "TAP PROJECT\\ChatRow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T15:11:53.68Z"
+              "WhenOpened": "2026-10-30T15:11:53.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ChatPacket.cs",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\ChatPacket.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\ChatPacket.cs",
@@ -97,11 +98,12 @@
               "RelativeToolTip": "TAP PROJECT\\ChatPacket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T15:11:41.628Z"
+              "WhenOpened": "2026-10-30T15:11:41.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TAP.cs [Design]",
               "DocumentMoniker": "C:\\Users\\bpham5\\Documents\\TAP_BAO\\TAP PROJECT\\TAP PROJECT\\TAP.cs",
               "RelativeDocumentMoniker": "TAP PROJECT\\TAP.cs",

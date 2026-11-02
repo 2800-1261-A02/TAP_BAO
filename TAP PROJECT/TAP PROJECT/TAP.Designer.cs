@@ -69,9 +69,9 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(447, 229);
+            dataGridView1.Location = new Point(254, 57);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(240, 150);
+            dataGridView1.Size = new Size(534, 381);
             dataGridView1.TabIndex = 3;
             // 
             // UI_TargetAddress_TxtBox
